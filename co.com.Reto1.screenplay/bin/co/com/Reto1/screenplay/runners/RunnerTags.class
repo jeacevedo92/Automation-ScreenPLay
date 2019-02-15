@@ -1,0 +1,4 @@
+Êþº¾   4   1co/com/Reto1/screenplay/runners/RunnerTags  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this 3Lco/com/Reto1/screenplay/runners/RunnerTags; 
+SourceFile RunnerTags.java RuntimeVisibleAnnotations Lorg/junit/runner/RunWith; value /Lnet/serenitybdd/cucumber/CucumberWithSerenity; Lcucumber/api/CucumberOptions; features (src/test/resources/features/demo.feature tags @tag2 glue .co.com.proyectobase.screenplay.stepdefinitions snippets Lcucumber/api/SnippetType; 	CAMELCASE !               /     *· ±    
+                             .    c    [ s  [ s  [ s  e  
